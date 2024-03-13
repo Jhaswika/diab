@@ -9,7 +9,7 @@ import pandas as pd
 
 # loading the saved models
 
-diabetes_model = pickle.load(open('C:/Users/user/Desktop/Multiple disease Prediction/saved models/diab_model.sav', 'rb'))
+diabetes_model = pickle.load(open('C:/Users/user/Desktop/diabetes/diab_model.sav', 'rb'))
 
 
 # sidebar for navigation
